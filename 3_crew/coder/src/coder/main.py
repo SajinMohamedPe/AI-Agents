@@ -25,6 +25,8 @@ def run():
     result = Coder().crew().kickoff(inputs=inputs)
     print(result.raw)
 
+if __name__ == "__main__":
 
+    run()
 
 
